@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>987219700152-ibnnceov1jurqud0aov75hdb2a4tj746.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.987219700152-ibnnceov1jurqud0aov75hdb2a4tj746</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>987219700152-1q8mkst0q7lo3b0nrjkr54ihn1im32th.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkwlCjFuUGBWbY1UN77kk-P9-VE_svzXs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>987219700152</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.denizerdogan.walknfitapp</string>
+	<key>PROJECT_ID</key>
+	<string>walknfit-5aebe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>walknfit-5aebe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:987219700152:ios:721fbc6c3223a5f239c74d</string>
+	<key>DATABASE_URL</key>
+	<string>https://walknfit-5aebe.firebaseio.com</string>
+</dict>
+</plist>

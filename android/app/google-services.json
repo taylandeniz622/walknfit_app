@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987219700152",
+    "firebase_url": "https://walknfit-5aebe.firebaseio.com",
+    "project_id": "walknfit-5aebe",
+    "storage_bucket": "walknfit-5aebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987219700152:android:13f9f6b404d83d7c39c74d",
+        "android_client_info": {
+          "package_name": "com.denizerdogan.walknfitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987219700152-1q8mkst0q7lo3b0nrjkr54ihn1im32th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.denizerdogan.walknfitapp",
+            "certificate_hash": "d8d9109b298790fb59a62a844965d9070070f5cf"
+          }
+        },
+        {
+          "client_id": "987219700152-ue3jnc4t18rdafurfe6imegivt9jf32l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPKrz0Hloil9MTWMEye1JTFg9viktQyeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987219700152-ue3jnc4t18rdafurfe6imegivt9jf32l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
